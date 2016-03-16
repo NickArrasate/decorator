@@ -1,0 +1,36 @@
+.all{
+  text-align: center;
+  position: absolute;
+}
+.column1{
+  float:left;
+  max-width: 25%;
+  margin: 10px 20px 10px 20px;
+
+}
+.column2{
+  float:left;
+  max-width: 25%;
+  margin: 10px 20px 10px 20px;
+
+}
+.column3{
+  float:left;
+  max-width: 25%;
+  margin: 10px 20px 10px 20px;
+
+}
+
+img {
+  width: 100%;
+  height: 100%;
+
+}
+h1{
+  text-align: center;
+  color: #ffcc99;
+}
+
+body{
+  background-color: ivory;
+}
